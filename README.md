@@ -51,7 +51,8 @@ The Amazon Sales Analysis Dashboard provides a visual representation of key sale
 
 - `Amazon Sales Analysis.pbix` – Power BI Dashboard file
 - `Amazon_Sale_Analysis_Summary.pptx` – Summary presentation
-- - `Amazon Sales Analysis Dashboard` – Png file
+- `Amazon Sales Analysis Dashboard` – Png file
+- `Amazon_Combined_Data.xlsx` – Excel File
 - `README.md` – Project documentation
 
 
